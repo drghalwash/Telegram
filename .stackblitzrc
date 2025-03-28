@@ -1,0 +1,4 @@
+{
+  "installDependencies": true,
+  "startCommand": "python3 fetch_telegram.py"
+}
